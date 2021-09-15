@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import download from '../src/download.jpg'
+import download from '../download.jpg'
 
 export class Newsitem extends Component {
 
